@@ -1,5 +1,3 @@
-# Comments
-
 // DEPENDENCIES
 // =====================================
 // Read and set environment variables
